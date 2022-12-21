@@ -25,11 +25,11 @@ class CustomerControllerTest {
 	@Test
 	final void testCreateCustomer() {
 		Customer customer = new Customer();
-		customer.setName("Dalistaa");
-		customer.setPhoneNumber("0770653784");
-		customer.setGender("Female");
-		customer.setEmail("adalistaa@gmail.com");
-		customer.setAddress("Mayiliddy");
+//		customer.setName("Dalistaa");
+//		customer.setPhoneNumber("0770653784");
+//		customer.setGender("Female");
+//		customer.setEmail("adalistaa@gmail.com");
+//		customer.setAddress("Mayiliddy");
 //		given(customerService.createCustomer(customer));
 	}
 
